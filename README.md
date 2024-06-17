@@ -1,21 +1,47 @@
-# Prisma
+# Emmet de A à Z
 
-Ce repository contient des ressources théoriques pour apprendre Prisma. Il est destiné à fournir des explications détaillées et des exemples pour comprendre les concepts fondamentaux de Prisma dans le cadre de la formation "Apprendre Prisma de A à Z" sur [laminutedecode.com](https://laminutedecode.com).
+Ce référentiel propose une formation complète sur Emmet, un outil puissant de productivité pour les développeurs web permettant d'écrire rapidement du code HTML et CSS grâce à des abréviations simples.
 
-## Contenu du Repository
+## Contenu
 
-Ce repository est organisé en différentes sections pour couvrir les aspects essentiels de Prisma :
+### Introduction à Emmet
+- Qu'est-ce qu'Emmet ?
+- Avantages de l'utilisation d'Emmet pour le développement web.
+- Installation et configuration d'Emmet dans différents éditeurs de code (VSCode, Sublime Text, etc.).
 
-- **Introduction à Prisma** : Une vue d'ensemble de Prisma et de son rôle dans le développement d'applications modernes.
-- **Modélisation de données avec Prisma Schema** : Comment définir et structurer les modèles de données à l'aide du fichier `schema.prisma`.
-- **Interactions avec la base de données** : Les différentes méthodes pour interagir avec la base de données à travers Prisma.
-- **Migrations avec Prisma** : Comment gérer les changements de schéma et les migrations de base de données.
-- **Relations entre les modèles** : Comment définir et gérer les relations entre les entités de données avec Prisma.
+### Syntaxe de Base d'Emmet
+- Utilisation des abréviations pour générer du code HTML.
+- Structure de base des abréviations Emmet (balises, classes, identifiants).
 
-## Utilisation
+### Fonctionnalités Avancées d'Emmet
+- Création de listes et de tableaux rapidement.
+- Utilisation de balises imbriquées et de groupes.
+- Utilisation des multiplicateurs et des opérateurs de modification.
 
-Utilisez ce repository pour explorer et comprendre les concepts théoriques de Prisma. Chaque section est accompagnée d'exemples et de références pour approfondir votre compréhension.
+### Abréviations pour le CSS
+- Génération rapide de propriétés CSS.
+- Utilisation des snippets CSS prédéfinis.
+
+### Techniques de Productivité
+- Utilisation de filtres pour modifier le résultat des abréviations.
+- Configuration et personnalisation des snippets Emmet.
+
+### Emmet dans des Frameworks
+- Utilisation d'Emmet avec des frameworks CSS populaires (Bootstrap, Foundation).
+- Génération de structures HTML spécifiques aux frameworks avec Emmet.
+
+### Optimisation et Bonnes Pratiques
+- Astuces pour maximiser la productivité avec Emmet.
+- Bonnes pratiques pour la structuration des abréviations complexes.
+
+### Projets Pratiques
+- Divers projets illustrant l'utilisation d'Emmet pour accélérer le développement web.
+
+## Ressources Supplémentaires
+- Liens vers des articles, des tutoriels et des ressources utiles sur Emmet.
+
+## Comment Contribuer
+Les contributions sous forme de nouvelles abréviations, de corrections ou d'améliorations de la documentation sont les bienvenues. Veuillez soumettre vos contributions via des pull requests.
 
 ## Licence
-
-Ce projet est la propriété de LaMinuteDeCode. Il est strictement interdit de copier ou de vendre ces ressources. Voir le fichier `LICENSE` pour plus de détails.
+Ce projet est sous licence [MIT](LICENSE). Vous êtes libre de l'utiliser, le modifier et le distribuer sous les termes de la licence MIT.
