@@ -1,0 +1,89 @@
+
+.box {
+  /* couleurs de fond */
+  bg
+  bg#3
+  bg#f1
+
+  /* positions */
+
+  posa 
+  posr 
+  posf
+  poss
+
+  /* width et height */
+
+  w100 
+  h100 
+
+  w100% 
+  w10rem 
+  w10em
+  w10e
+
+  /* top/bottom/right/left */
+  l10
+  r10 
+  t10 
+  b20 
+
+  l20rem 
+  r2em 
+  t10%
+
+  /* les displays */
+  db 
+  di 
+  dib 
+  df 
+  dg 
+  dn 
+  dt 
+
+  /* margin et padding */
+  m10 
+  m10-20 
+  m10-20-30 
+  m10-10-20-20 
+
+  ml20 
+  mr20 
+  mt20 
+  mb20 
+
+  p10 
+  p10-20 
+  p10-20-30 
+  p10-10-20-20 
+
+  pl20 
+  pr20 
+  pt20 
+  pb20 
+
+m10rem 
+m10% 
+m10em
+
+/* font */
+
+ff 
+fft 
+ffv 
+
+/* le mot cle important */
+
+m10!
+
+/*  degradé */
+
+lg 
+
+
+
+/* animation */
+anim-
+
+
+}
